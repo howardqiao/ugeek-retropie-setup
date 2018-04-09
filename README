@@ -1,0 +1,3 @@
+git clone https://github.com/howardqiao/ugeek-retropie-setup.git --depth 1
+cd ugeek-retropie-setup
+sudo ./setup.sh
